@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a2dd2850-2cee-4f04-aec3-b3a5d39233af" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Check Process2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Check Process2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Parameter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Parameter.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Preparation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Preparation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preprocessed_course_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/preprocessed_course_data.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
